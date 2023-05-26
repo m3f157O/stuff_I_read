@@ -5,7 +5,6 @@
 - http://masm32.com/board/index.php?topic=4479.msg47967#msg47967
 - https://reverseengineering.stackexchange.com/questions/4465/where-is-ntdll-dll
 - http://www.nynaeve.net/?tag=tls
-- file:///C:/Users/LDRGMR99E/Downloads/165-FIND%20EVIL-KNOWNORMAL.pdf
 - https://www.geoffchappell.com/studies/windows/km/ntoskrnl/inc/api/pebteb/peb/index.htm
 - https://resources.infosecinstitute.com/topic/the-export-directory/
 - https://stackoverflow.com/questions/672461/what-is-stack-alignment
