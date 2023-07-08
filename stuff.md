@@ -30,6 +30,14 @@
 - https://malwareunicorn.org/workshops/peinjection.html#3
 - https://www.ired.team/offensive-security/code-injection-process-injection
 
+# KERNEL
+- https://en.wikipedia.org/wiki/Microsoft_Reserved_Partition#:~:text=A%20Microsoft%20Reserved%20Partition%20(MSR,installed%20on%20a%20separate%20partition.
+- https://en.wikipedia.org/wiki/Global_Descriptor_Table
+- https://www.ired.team/miscellaneous-reversing-forensics/windows-kernel-internals/interrupt-descriptor-table-idt
+- https://github.com/AxtMueller/Windows-Kernel-Explorer
+- https://vollragm.github.io/posts/kernel-message-box/
+- https://rayanfam.com/topics/hypervisor-from-scratch-part-2/#conclusion
+  
 
 # OSED
 - https://github.com/r0r0x-xx/OSED-Pre
@@ -37,6 +45,14 @@
 - https://github.com/sradley/osed/tree/master/2-seh-overflows/remote/vulnserver-gmon
 - https://github.com/nop-tech/OSED
 - https://github.com/dest-3/OSED_Resources#seh-exploitation
+- https://github.com/SinaKarvandi/Hypervisor-From-Scratch
+- https://github.com/MalwareTech/FakeMBR/blob/master/DriverEntry.cpp
+- https://www.adlice.com/kernelmode-rootkits-part-1-ssdt-hooks/
+
+
+# LSASS
+- https://loong716.top/posts/lsass/
+- https://github.com/antonioCoco/MalSeclogon/blob/master/MalSeclogon.c
 
 # Guides
 - https://github.com/HyperDbg/HyperDbg/releases
